@@ -1,0 +1,2 @@
+# SandataOnSakuna
+React Native Project
