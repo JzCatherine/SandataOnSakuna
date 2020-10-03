@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Sandata On Sakuna",
+    "slug": "sos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./app/assets/favicon.png"
+    },
+    "description": "Our team is motivated to help out fellow Filipinos to be always ready and learn proper response to disaster and emergency situation\nUse our app as your Sandata On Sakuna!",
+    "android": {
+      "package": "com.codez.sos",
+      "versionCode": 1
+    }
+  }
+}
