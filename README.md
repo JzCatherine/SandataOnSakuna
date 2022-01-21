@@ -1,5 +1,5 @@
 # SandataOnSakuna
-ITE001 Computer Programming 1 Project <br />
+CS409 Mobile Computing Project <br />
 Project Description: Our team is motivated to help out fellow Filipinos to be always ready and learn proper response to disaster and emergency situation Use our app as your Sandata On Sakuna! <br />
 
 Application Name: Sandata On Sakuna <br />
